@@ -1,0 +1,1 @@
+"Your OPT to login into Your Sarvadhi Invoice Management Syatem is: {{$otp}}".
